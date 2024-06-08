@@ -1,5 +1,4 @@
 import { extendTheme, type ThemeConfig } from "@chakra-ui/react";
-import { SiGraylog } from "react-icons/si";
 
 const config: ThemeConfig = {
     initialColorMode: 'dark',
